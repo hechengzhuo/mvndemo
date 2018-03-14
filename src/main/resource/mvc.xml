@@ -9,7 +9,7 @@
          http://www.springframework.org/schema/context/spring-context.xsd
          http://www.springframework.org/schema/mvc
          http://www.springframework.org/schema/mvc/spring-mvc.xsd">
-	<!--看看是不是push到hcz
+	<!--失败了啊上
 	<bean id="jspViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 	  <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
 	  <property name="prefix" value="/WEB-INF/jsp/"/>
